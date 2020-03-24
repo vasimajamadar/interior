@@ -1,0 +1,23 @@
+#navbar
+{
+  height: 100px;
+  width: 1200px;
+  background-color: black;
+}
+#main1
+{
+  margin-left: 50px;
+}
+#main1:hover
+{
+ color: whitesmoke;
+}
+#download
+{
+  margin-left: 700px;
+  padding: 10px;
+}
+#download:hover
+{
+  color: whitesmoke;
+}
